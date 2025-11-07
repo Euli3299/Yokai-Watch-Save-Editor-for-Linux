@@ -25,7 +25,7 @@ Using **Wine**, you can edit your game saves without needing Windows.
 ## 🚀 Installation & Usage
 
 ### 1️⃣ Download
-Grab the latest version from the [[Release](https://github.com/Euli3299/Yokai-Watch-Save-Editor-for-Linux/releases)
+Grab the latest version from the [Release](https://github.com/Euli3299/Yokai-Watch-Save-Editor-for-Linux/releases)
 
 ### 2️⃣ Open Terminal
 Open a terminal in the folder where you downloaded the editor, or navigate there manually:
